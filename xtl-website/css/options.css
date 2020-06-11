@@ -1,0 +1,186 @@
+#div-option {
+    width: 65vw;
+    height: 45vw;
+    z-index: 10;
+    top: 15vw;
+    background-color: #2b2b2b;
+    position: absolute;
+    left: 15vw;
+    border-color: #242424;
+    border-style: solid;
+    border-width: 0.7vw;
+}
+
+#div-text-language {
+    z-index: 20;
+    position: absolute;
+    left: 20vw;
+    top: 17vw;
+}
+
+#div-text-dark-theme {
+    z-index: 20;
+    position: absolute;
+    left: 20vw;
+    top: 20vw;
+}
+
+#div-text-profile-photo {
+    z-index: 20;
+    position: absolute;
+    left: 20vw;
+    top: 23vw;
+}
+
+#div-text-phone {
+    z-index: 20;
+    position: absolute;
+    left: 20vw;
+    top: 26vw;
+}
+
+#div-text-email {
+    z-index: 20;
+    position: absolute;
+    left: 20vw;
+    top: 29vw;
+}
+
+#div-text-password {
+    z-index: 20;
+    position: absolute;
+    left: 20vw;
+    top: 32vw;
+}
+
+
+/* Надеемся на светлое будещее
+
+Надеемся на светлое будещее ещо раз
+
+Надеемся на светлое будещее ещо раз ещо раз 
+
+Надеемся на светлое будещее ещо раз ещо раз ещо раз */
+
+#text-language {
+    font-size: 2vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-dark-theme {
+    font-size: 2vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-profile-photo {
+    font-size: 2vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-phone {
+    font-size: 2vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-email {
+    font-size: 2vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-password {
+    font-size: 2vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+
+/* Надеемся на светлое будещее
+
+Надеемся на светлое будещее ещо раз
+
+Надеемся на светлое будещее ещо раз ещо раз 
+
+Надеемся на светлое будещее ещо раз ещо раз ещо раз */
+
+#div-img-triangle {
+    z-index: 20;
+    position: absolute;
+    left: 25vw;
+    top: 19.5vw;
+}
+
+#div-img-dark-theme {
+    z-index: 20;
+    position: absolute;
+    left: 25vw;
+    top: 22.6vw;
+}
+
+#div-img-profile-photo {
+    z-index: 20;
+    position: absolute;
+    left: 34.5vw;
+    top: 25.7vw;
+}
+
+#div-img-phone {
+    z-index: 20;
+    position: absolute;
+    left: 28.5vw;
+    top: 28.65vw;
+}
+
+#div-img-email {
+    z-index: 20;
+    position: absolute;
+    left: 37vw;
+    top: 31.6vw;
+}
+
+#div-img-password {
+    z-index: 20;
+    position: absolute;
+    left: 27.5vw;
+    top: 34.7vw;
+}
+
+#img-triangle {
+    width: 1.5vw;
+    height: auto;
+}
+
+#img-dark-theme {
+    width: 1.5vw;
+    height: auto;
+}
+
+#img-profile-photo {
+    width: 1.5vw;
+    height: auto;
+}
+
+#img-phone {
+    width: 1.5vw;
+    height: auto;
+}
+
+#img-email {
+    width: 1.5vw;
+    height: auto;
+}
+
+#img-password {
+    width: 1.5vw;
+    height: auto;
+}

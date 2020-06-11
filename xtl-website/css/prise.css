@@ -1,0 +1,284 @@
+    #div-text-haupt-price-start-prpfsional {
+        z-index: 10;
+        top: 7.5vw;
+        left: 45.5vw;
+        position: absolute;
+        height: 7vw;
+        border-bottom: 0.4vw solid #a60505;
+    }
+    
+    #div-text-haupt-long-price-start-prpfsional {
+        top: 15vw;
+        left: 21.5vw;
+        z-index: 10;
+        position: absolute;
+    }
+    
+    #div-text-haupt-in-this-article {
+        top: 27.05vw;
+        left: 37vw;
+        z-index: 10;
+        position: absolute;
+        border-bottom: 0.35vw solid #a60505;
+        height: 4vw;
+    }
+    
+    #text-haupt-price-start-prpfsional {
+        font-size: 3vw;
+        color: #2b2b2b;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 150;
+    }
+    
+    #text-haupt-long-price-start-prpfsional {
+        font-size: 1.7vw;
+        color: #2b2b2b;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 200;
+    }
+    
+    #text-haupt-in-this-article {
+        font-size: 1.7vw;
+        color: #2b2b2b;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 200;
+    }
+    
+    #div-score {
+        width: 30vw;
+        height: 70vw;
+        z-index: 10;
+        top: 40vw;
+        background-color: #2b2b2b;
+        position: absolute;
+        left: 17vw;
+        border-color: #242424;
+        border-style: solid;
+        border-width: 0.7vw;
+    }
+    
+    #div-bussines {
+        width: 30vw;
+        height: 60vw;
+        z-index: 10;
+        top: 40vw;
+        background-color: #2b2b2b;
+        position: absolute;
+        left: 52vw;
+        border-color: #242424;
+        border-style: solid;
+        border-width: 0.7vw;
+    }
+    
+    #div-logo {
+        width: 30vw;
+        height: 36vw;
+        z-index: 10;
+        top: 120vw;
+        background-color: #2b2b2b;
+        position: absolute;
+        left: 17vw;
+        border-color: #242424;
+        border-style: solid;
+        border-width: 0.7vw;
+    }
+    
+    #div-video-logo {
+        width: 30vw;
+        height: 46vw;
+        z-index: 10;
+        top: 110vw;
+        background-color: #2b2b2b;
+        position: absolute;
+        left: 52vw;
+        border-color: #242424;
+        border-style: solid;
+        border-width: 0.7vw;
+    }
+    /* Надеемся на светлое будещее 2 2 2 
+
+Надеемся на светлое будещее ещо раз  2 2 2 2
+
+Надеемся на светлое будещее ещо раз ещо раз  2 2 2 2 2
+
+Надеемся на светлое будещее ещо раз ещо раз ещо раз  2 2 2 2 2 2 */
+    
+    #red-div-score {
+        width: 31.4vw;
+        height: 6vw;
+        background-color: #0c3794;
+        top: 40vw;
+        left: 17vw;
+        position: absolute;
+        z-index: 10;
+    }
+    
+    #red-div-your-bussines {
+        width: 31.4vw;
+        height: 6vw;
+        background-color: #a60505;
+        top: 40vw;
+        left: 52vw;
+        position: absolute;
+        z-index: 10;
+    }
+    
+    #red-div-logo {
+        width: 31.4vw;
+        height: 6vw;
+        background-color: #94102f;
+        top: 120vw;
+        left: 17vw;
+        position: absolute;
+        z-index: 10;
+    }
+    
+    #red-div-video-logo {
+        width: 31.4vw;
+        height: 6vw;
+        background-color: #502ca3;
+        top: 110vw;
+        left: 52vw;
+        position: absolute;
+        z-index: 10;
+    }
+    /* Надеемся на светлое будещее
+
+Надеемся на светлое будещее ещо раз
+
+Надеемся на светлое будещее ещо раз ещо раз 
+
+Надеемся на светлое будещее ещо раз ещо раз ещо раз */
+    
+    #div-text-score {
+        z-index: 10;
+        top: 39vw;
+        position: absolute;
+        left: 23vw;
+    }
+    
+    #div-text-your-bussines {
+        z-index: 10;
+        top: 39vw;
+        position: absolute;
+        left: 58vw;
+    }
+    
+    #div-text-logo {
+        z-index: 10;
+        top: 119vw;
+        position: absolute;
+        left: 27.5vw;
+    }
+    
+    #div-text-video-logo {
+        z-index: 10;
+        top: 109vw;
+        position: absolute;
+        left: 60vw;
+    }
+    /* Надеемся на светлое будещее 2 2 2 
+
+Надеемся на светлое будещее ещо раз  2 2 2 2
+
+Надеемся на светлое будещее ещо раз ещо раз  2 2 2 2 2
+
+Надеемся на светлое будещее ещо раз ещо раз ещо раз  2 2 2 2 2 2 */
+    
+    #text-score {
+        font-size: 2.5vw;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 200;
+    }
+    
+    #text-your-bussines {
+        font-size: 2.5vw;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 200;
+    }
+    
+    #text-logo {
+        font-size: 2.5vw;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 200;
+    }
+    
+    #text-video-logo {
+        font-size: 2.5vw;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 200;
+    }
+    /* Надеемся на светлое будещее 2 2 2 
+
+Надеемся на светлое будещее ещо раз  2 2 2 2
+
+Надеемся на светлое будещее ещо раз ещо раз  2 2 2 2 2
+
+Надеемся на светлое будещее ещо раз ещо раз ещо раз  2 2 2 2 2 2 */
+    
+    #div-price-score {
+        z-index: 10;
+        top: 45vw;
+        position: absolute;
+        left: 28vw;
+    }
+    
+    #div-price-bussines {
+        z-index: 10;
+        top: 45vw;
+        position: absolute;
+        left: 64vw;
+    }
+    
+    #div-price-logo {
+        z-index: 10;
+        top: 125vw;
+        position: absolute;
+        left: 28vw;
+    }
+    
+    #div-price-video-logo {
+        z-index: 10;
+        top: 115vw;
+        position: absolute;
+        left: 64vw;
+    }
+    /* Надеемся на светлое будещее 2 2 2 
+
+Надеемся на светлое будещее ещо раз  2 2 2 2
+
+Надеемся на светлое будещее ещо раз ещо раз  2 2 2 2 2
+
+Надеемся на светлое будещее ещо раз ещо раз ещо раз  2 2 2 2 2 2 */
+    
+    #price-score {
+        font-size: 3.5vw;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 200;
+    }
+    
+    #price-bussines {
+        font-size: 3.5vw;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 200;
+    }
+    
+    #price-logo {
+        font-size: 3.5vw;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 200;
+    }
+    
+    #price-video-logo {
+        font-size: 3.5vw;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 200;
+    }

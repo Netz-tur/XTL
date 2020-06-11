@@ -1,0 +1,227 @@
+#div-haupt-text-about-xtl {
+    position: absolute;
+    z-index: 5;
+    top: 12vw;
+    left: 48vw;
+    border-bottom: 0.4vw solid #a60505;
+    height: 6vw;
+}
+
+#div-haupt-text-about-xtl-long {
+    position: absolute;
+    z-index: 5;
+    top: 20vw;
+    left: 17vw;
+}
+
+#div-haupt-text-about-xtl-long-02 {
+    position: absolute;
+    z-index: 5;
+    top: 40vw;
+    left: 17vw;
+}
+
+#haupt-text-about-xtl {
+    font-weight: 150;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.5vw;
+}
+
+#haupt-text-about-xtl-long {
+    font-weight: 150;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.7vw;
+}
+
+#haupt-text-about-xtl-long-02 {
+    font-weight: 150;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.7vw;
+}
+
+#div_5_year {
+    background-color: #a60505;
+    z-index: 5;
+    position: absolute;
+    top: 77vw;
+    left: 13vw;
+    width: 9vw;
+    height: 9vw;
+}
+
+#div_20_people {
+    background-color: #a60505;
+    z-index: 5;
+    position: absolute;
+    top: 77vw;
+    left: 45vw;
+    width: 9vw;
+    height: 9vw;
+}
+
+#div_guarantee {
+    background-color: #a60505;
+    z-index: 5;
+    position: absolute;
+    top: 77vw;
+    right: 13vw;
+    width: 9vw;
+    height: 9vw;
+    width: 9vw;
+    height: 9vw;
+}
+
+#div_text_5_year {
+    top: 77vw;
+    left: 13vw;
+    position: absolute;
+    z-index: 7;
+    width: 9vw;
+    height: 9vw;
+}
+
+#div_text_20_people {
+    top: 77vw;
+    left: 45vw;
+    position: absolute;
+    z-index: 7;
+    width: 9vw;
+    height: 9vw;
+}
+
+#div_img_guarantee {
+    top: 78vw;
+    /* right: -14vw;  */
+    position: absolute;
+    z-index: 7;
+}
+
+#text_5_year {
+    font-weight: 170;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 3vw;
+    text-align: center;
+}
+
+#text_20_people {
+    font-weight: 170;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 3vw;
+    text-align: center;
+}
+
+#img_guarantee {
+    width: 7vw;
+    height: auto;
+}
+
+#div_text_p_5_year {
+    top: 84.5vw;
+    left: 11.3vw;
+    position: absolute;
+    z-index: 7;
+}
+
+#div_text_p_20_people {
+    top: 84.5vw;
+    left: 41.35vw;
+    position: absolute;
+    z-index: 7;
+}
+
+#div_p_guarantee {
+    top: 84.5vw;
+    right: 11.3vw;
+    position: absolute;
+    z-index: 7;
+}
+
+#text_p_5_year {
+    font-weight: 180;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.3vw;
+}
+
+#text_p_20_people {
+    font-weight: 180;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.3vw;
+}
+
+#p_guarantee {
+    font-weight: 180;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.3vw;
+    text-align: center;
+}
+
+#div-text-long-not-haupt-about-xtl {
+    z-index: 5;
+    position: absolute;
+    top: 97vw;
+    left: 45vw;
+    border-bottom: 0.4vw solid #a60505;
+    height: 5vw;
+}
+
+#div-text-long-long-about-xtl {
+    z-index: 5;
+    position: absolute;
+    top: 105vw;
+    left: 20vw;
+}
+
+#text-long-not-haupt-about-xtl {
+    font-weight: 150;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2vw;
+}
+
+#text-long-long-about-xtl {
+    font-weight: 150;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.7vw;
+}
+
+#div_img_technologies {
+    z-index: 7;
+    position: absolute;
+    top: 110vw;
+    left: 10vw;
+}
+
+#div_img_update {
+    z-index: 7;
+    position: absolute;
+    top: 115vw;
+    right: 10vw;
+}
+
+#img_technologies {
+    width: 5vw;
+    height: 5vw;
+    transform: 360deg;
+}
+
+#img_update {
+    width: 5vw;
+    height: 5vw;
+}
+
+#div-fon {
+    z-index: 0;
+    position: absolute;
+    top: 100vw;
+    width: 100vw;
+    height: 40vw;
+}

@@ -1,0 +1,533 @@
+#form-button-score {
+    top: 106vw;
+    left: 25vw;
+    z-index: 10;
+    position: absolute;
+}
+
+#form-button-bussines {
+    top: 96vw;
+    left: 61.5vw;
+    z-index: 10;
+    position: absolute;
+}
+
+#form-button-logo {
+    top: 152.5vw;
+    left: 25vw;
+    z-index: 10;
+    position: absolute;
+}
+
+#form-button-video-logo {
+    top: 152.5vw;
+    left: 61.5vw;
+    z-index: 10;
+    position: absolute;
+}
+
+#button-score {
+    background-color: #a60505;
+    border: none;
+    width: 13vw;
+    height: 2.7vw;
+    cursor: pointer;
+    color: white;
+    font-size: 1.3vw;
+    font-weight: 100;
+    font-family: 'Raleway', sans-serif;
+}
+
+#button-bussines {
+    background-color: #a60505;
+    border: none;
+    width: 13vw;
+    height: 2.7vw;
+    cursor: pointer;
+    color: white;
+    font-size: 1.3vw;
+    font-weight: 100;
+    font-family: 'Raleway', sans-serif;
+}
+
+#button-logo {
+    background-color: #a60505;
+    border: none;
+    width: 13vw;
+    height: 2.7vw;
+    cursor: pointer;
+    color: white;
+    font-size: 1.3vw;
+    font-weight: 100;
+    font-family: 'Raleway', sans-serif;
+}
+
+#button-video-logo {
+    background-color: #a60505;
+    border: none;
+    width: 13vw;
+    height: 2.7vw;
+    cursor: pointer;
+    color: white;
+    font-size: 1.3vw;
+    font-weight: 100;
+    font-family: 'Raleway', sans-serif;
+}
+
+#div-img-contacts-fb-prise {
+    top: 165vw;
+    left: 39vw;
+    z-index: 10;
+    position: absolute;
+}
+
+#div-img-contacts-in-prise {
+    top: 165vw;
+    left: 44vw;
+    z-index: 10;
+    position: absolute;
+}
+
+#div-img-contacts-telegram-prise {
+    top: 165vw;
+    left: 49vw;
+    z-index: 10;
+    position: absolute;
+}
+
+#div-img-contacts-vk-prise {
+    top: 165vw;
+    left: 53vw;
+    z-index: 10;
+    position: absolute;
+}
+
+#div-img-contacts-gmail-prise {
+    top: 165vw;
+    left: 58vw;
+    z-index: 10;
+    position: absolute;
+}
+
+#img-contacts-fb-prise {
+    width: 3.7vw;
+    height: auto;
+}
+
+#img-contacts-in-prise {
+    width: 3.7vw;
+    height: auto;
+}
+
+#img-contacts-telegram-prise {
+    width: 3.7vw;
+    height: auto;
+}
+
+#img-contacts-vk-prise {
+    width: 3.7vw;
+    height: auto;
+}
+
+#img-contacts-gmail-prise {
+    width: 3.7vw;
+    height: auto;
+}
+
+#div-text-long-score {
+    top: 53vw;
+    left: 20vw;
+    position: absolute;
+    z-index: 10;
+}
+
+#div-text-long-bussines {
+    top: 53vw;
+    left: 55vw;
+    position: absolute;
+    z-index: 10;
+}
+
+#div-text-long-logo {
+    top: 133vw;
+    left: 20vw;
+    position: absolute;
+    z-index: 10;
+}
+
+#div-text-long-video-logo {
+    top: 125vw;
+    left: 55vw;
+    position: absolute;
+    z-index: 10;
+}
+
+#text-long-score {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 230;
+}
+
+#text-long-bussines {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 230;
+}
+
+#text-long-logo {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 230;
+}
+
+#text-long-video-logo {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 230;
+}
+
+
+/* jheowiyfcgei9gdfiew
+
+ewyfg4w3eiyrr784etr8o3476r8o437ty
+
+4rt3478pty9p5
+
+uo34ytp9354y7t */
+
+#div_black_2_fb_in {
+    width: 100vw;
+    height: 15vw;
+    z-index: 5;
+    top: 165vw;
+    /* background: repeating-linear-gradient(45deg, #2b2b2b, #2b2b2b 20px, #868686 20px, #868686 25px); */
+    background-color: #2b2b2b;
+    position: absolute;
+    margin: 0;
+    right: 0;
+    left: 0;
+    border-top: #a60505 solid 0.5vw;
+}
+
+#div_img_index_2_fb {
+    z-index: 6;
+    top: 168vw;
+    right: 39vw;
+    position: absolute;
+}
+
+#div_img_index_2_in {
+    z-index: 6;
+    top: 168vw;
+    right: 34vw;
+    position: absolute;
+}
+
+#div_img_index_2_telegram {
+    z-index: 6;
+    top: 168vw;
+    right: 29vw;
+    position: absolute;
+}
+
+#div_img_index_2_vk {
+    z-index: 6;
+    top: 168vw;
+    right: 24vw;
+    position: absolute;
+}
+
+#div_img_index_2_gmail {
+    z-index: 6;
+    top: 172vw;
+    right: 26vw;
+    position: absolute;
+}
+
+#div_img_index_2_tw {
+    z-index: 6;
+    top: 172vw;
+    right: 31vw;
+    position: absolute;
+}
+
+#div_img_index_2_inni {
+    z-index: 6;
+    top: 172vw;
+    right: 36vw;
+    position: absolute;
+}
+
+#img_index_2_fb {
+    width: 3vw;
+    height: auto;
+}
+
+#img_index_2_in {
+    width: 3vw;
+    height: auto;
+}
+
+#img_index_2_telegram {
+    width: 3vw;
+    height: auto;
+}
+
+#img_index_2_vk {
+    width: 3vw;
+    height: auto;
+}
+
+#img_index_2_gmail {
+    width: 3vw;
+    height: auto;
+}
+
+#img_index_2_tw {
+    width: 3vw;
+    height: auto;
+}
+
+#img_index_2_inni {
+    width: 3vw;
+    height: auto;
+}
+
+
+/* fb wefh9ewuyfw7e9fy */
+
+
+/* inni fvrehgoureg */
+
+
+/* twhvisdhv */
+
+#div_text_about_2_xtl_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 165vw;
+    left: 5vw;
+    border-bottom: 0.3vw solid #a60505;
+    height: 4vw;
+}
+
+#div_text_about_xtl_2_5_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 169vw;
+    left: 5vw;
+}
+
+#div_text_about_xtl_2_20_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 171vw;
+    left: 5vw;
+}
+
+#div_text_about_xtl_2_our_goaldiv_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 173vw;
+    left: 5vw;
+}
+
+#div_text_founder_2_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 165vw;
+    right: 11vw;
+    border-bottom: 0.3vw solid #a60505;
+    height: 4vw;
+}
+
+#div_text_nikolai_2_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 169vw;
+    right: 6vw;
+}
+
+#div_text_nikita_2_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 171.5vw;
+    right: 7.6vw;
+}
+
+#div_text_headquarters_2_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 165vw;
+    left: 20vw;
+    border-bottom: 0.3vw solid #a60505;
+    height: 4vw;
+}
+
+#div_text_ukrane_2_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 169vw;
+    left: 20vw;
+}
+
+#div_text_kiev_2_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 171vw;
+    left: 20vw;
+}
+
+#div_text_helpful_information_2_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 165vw;
+    left: 35vw;
+    border-bottom: 0.3vw solid #a60505;
+    height: 4vw;
+}
+
+#div_text_consultation_2_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 169vw;
+    left: 35vw;
+}
+
+#div_text_contacts_2_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 171vw;
+    left: 35vw;
+}
+
+#div_text_services_2_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 173vw;
+    left: 35vw;
+}
+
+
+/* idsgfcyueft68ewft86ew7tfw76efhu// */
+
+
+/* djfchwisudfyc
+
+kvcjouvrseohv*/
+
+#text_about_xtl_2_div_black {
+    font-size: 1.7vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_about_xtl_2_5_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_about_xtl_2_20_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_about_xtl_2_our_goaldiv_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_founder_2_div_black {
+    font-size: 1.7vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_nikolai_2_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_nikita_2_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_headquarters_2_div_black {
+    font-size: 1.7vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_ukrane_2_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_kiev_2_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_helpful_information_2_div_black {
+    font-size: 1.7vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_consultation_2_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_contacts_2_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_services_2_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_cost_2_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_reviev_2_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}

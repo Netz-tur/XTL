@@ -1,0 +1,353 @@
+#imgworkstages {
+    width: 200px;
+    height: auto;
+}
+
+
+/* #divimgworkstages {
+    z-index: 5;
+    top: 6200px;
+    left: 230px;
+    position: absolute;
+} */
+
+#div_cookies {
+    bottom: 0vw;
+    width: 100vw;
+    height: 4vw;
+    position: fixed;
+    z-index: 20;
+    background-color: #2b2b2b;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-color: #242424;
+    border-style: solid;
+    border-width: 0.4vw;
+    left: 0;
+    right: 0;
+}
+
+#cookies_button {
+    width: 11vw;
+    height: 3.2vw;
+    background-color: #2b2b2b;
+    border-color: #a60505;
+    border-style: solid;
+    border-width: 0.3vw;
+}
+
+#cookies_button:hover {
+    background-color: #a60505;
+}
+
+#form_cookies_button {
+    bottom: 0.8vw;
+    right: 13.8vw;
+    z-index: 20;
+    position: fixed;
+}
+
+#div_text-cokies_ok {
+    bottom: 1.5vw;
+    right: 18vw;
+    z-index: 20;
+    position: fixed;
+    cursor: default;
+}
+
+#div_text_cookies_more_detail {
+    bottom: 1.2vw;
+    left: 60vw;
+    z-index: 20;
+    position: fixed;
+    border-bottom: 0.3vw solid #a60505;
+    height: 2.8vw;
+}
+
+#div_text_long_cookies {
+    position: fixed;
+    z-index: 20;
+    bottom: 0.7vw;
+    left: 5vw;
+}
+
+#text_cokies_ok {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    font-weight: 180;
+}
+
+#text_cookies_more_detail {
+    font-size: 1.2vw;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 130;
+}
+
+#text_long_cookies {
+    font-size: 1.2vw;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+
+/* jksdncfgu7 ышаркн8ум67укмпе6 
+
+лисмвгнмп7гвусе */
+
+
+/* wjchdscy8tda67ctasc 
+
+PAUSE PAUSE PA */
+
+#div_black_fb_in {
+    width: 100vw;
+    height: 15vw;
+    z-index: 5;
+    top: 330vw;
+    /* background: repeating-linear-gradient(45deg, #2b2b2b, #2b2b2b 20px, #868686 20px, #868686 25px); */
+    background-color: #2b2b2b;
+    position: absolute;
+    margin: 0;
+    right: 0;
+    left: 0;
+    border-top: #a60505 solid 0.5vw;
+}
+
+
+/* fb wefh9ewuyfw7e9fy */
+
+
+/* inni fvrehgoureg */
+
+
+/* twhvisdhv */
+
+#div_text_about_xtl_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 330vw;
+    left: 5vw;
+    border-bottom: 0.3vw solid #a60505;
+    height: 4vw;
+}
+
+#div_text_about_xtl_5_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 334vw;
+    left: 5vw;
+}
+
+#div_text_about_xtl_20_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 336vw;
+    left: 5vw;
+}
+
+#div_text_about_xtl_our_goaldiv_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 338vw;
+    left: 5vw;
+}
+
+#div_text_founder_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 330vw;
+    right: 11vw;
+    border-bottom: 0.3vw solid #a60505;
+    height: 4vw;
+}
+
+#div_text_nikolai_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 334vw;
+    right: 6vw;
+}
+
+#div_text_nikita_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 336.5vw;
+    right: 7.6vw;
+}
+
+#div_text_headquarters_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 330vw;
+    left: 20vw;
+    border-bottom: 0.3vw solid #a60505;
+    height: 4vw;
+}
+
+#div_text_ukrane_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 334vw;
+    left: 20vw;
+}
+
+#div_text_kiev_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 336vw;
+    left: 20vw;
+}
+
+#div_text_helpful_information_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 330vw;
+    left: 35vw;
+    border-bottom: 0.3vw solid #a60505;
+    height: 4vw;
+}
+
+#div_text_consultation_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 334vw;
+    left: 35vw;
+}
+
+#div_text_contacts_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 336vw;
+    left: 35vw;
+}
+
+#div_text_services_div_black {
+    position: absolute;
+    z-index: 5;
+    top: 338vw;
+    left: 35vw;
+}
+
+
+/* idsgfcyueft68ewft86ew7tfw76efhu// */
+
+
+/* djfchwisudfyc
+
+kvcjouvrseohv*/
+
+#text_about_xtl_div_black {
+    font-size: 1.7vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_about_xtl_5_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_about_xtl_20_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_about_xtl_our_goaldiv_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_founder_div_black {
+    font-size: 1.7vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_nikolai_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_nikita_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_headquarters_div_black {
+    font-size: 1.7vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_ukrane_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_kiev_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_helpful_information_div_black {
+    font-size: 1.7vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_consultation_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_contacts_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_services_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_cost_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}
+
+#text_reviev_div_black {
+    font-size: 1.5vw;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 170;
+}

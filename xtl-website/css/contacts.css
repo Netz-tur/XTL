@@ -1,0 +1,121 @@
+#div-input-text-email {
+    top: 15vw;
+    left: 5vw;
+    z-index: 5;
+    position: absolute;
+}
+
+#div-input-text-name {
+    top: 33.5vw;
+    left: 5vw;
+    z-index: 5;
+    position: absolute;
+}
+
+#div-input-text-message {
+    top: 15vw;
+    right: 25vw;
+    z-index: 5;
+    position: absolute;
+}
+
+#div_input_button_send {
+    bottom: 15vw;
+    right: 17vw;
+    z-index: 5;
+    position: absolute;
+}
+
+#input-text-email {
+    width: 30vw;
+    height: 1.5vw;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 0.2vw solid #848484;
+    font-size: 1.1vw;
+    font-weight: 170;
+    font-family: 'Raleway', sans-serif;
+}
+
+#input-text-name {
+    width: 30vw;
+    height: 1.5vw;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 0.2vw solid #848484;
+    font-size: 1.1vw;
+    font-weight: 170;
+    font-family: 'Raleway', sans-serif;
+}
+
+#input-text-message {
+    width: 35vw;
+    height: 20vw;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 0.2vw solid #848484;
+    font-size: 1.1vw;
+    font-weight: 170;
+    font-family: 'Raleway', sans-serif;
+}
+
+#input_button_send {
+    width: 5vw;
+    height: 5vw;
+    background-image: url(../img/telegram_send.png);
+    background-size: contain;
+    background-color: #a60505;
+    border-radius: 50%;
+}
+
+#input_button_send:hover {
+    animation-name: send;
+    animation-duration: 2s;
+}
+
+@keyframes send {
+    0% {
+        background-color: #a60505;
+    }
+    50% {
+        background-color: #b61047;
+    }
+    100% {
+        background-color: #a60505;
+    }
+}
+
+#div_img_contacts {
+    top: 23vw;
+    right: 4vw;
+    z-index: 5;
+    position: absolute;
+}
+
+
+/* 
+#div_img_2_line_2 {
+    top: 18.5vw;
+    left: 15vw;
+    z-index: 5;
+    position: absolute;
+}
+
+#img_contacts {
+    width: 5vw;
+    height: auto;
+}
+
+
+#img_2_line_2 {
+    width: 25vw;
+    height: auto;
+} */
+
+A {
+    text-decoration: none;
+    color: white;
+}

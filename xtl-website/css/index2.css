@@ -1,0 +1,408 @@
+#div-text-workstages {
+    z-index: 8;
+    top: 220vw;
+    position: absolute;
+    left: 40vw;
+    border-bottom: 0.5vw solid #a60505;
+    height: 6vw;
+}
+
+#div-text-description-the-project-workstages {
+    z-index: 8;
+    top: 240vw;
+    position: absolute;
+    left: 32vw;
+}
+
+#div-text-time-cost-workstages {
+    z-index: 8;
+    top: 255vw;
+    position: absolute;
+    left: 32vw;
+}
+
+#div-text-more-workstages {
+    z-index: 8;
+    top: 257.3vw;
+    position: absolute;
+    left: 50.5vw;
+    border-bottom: 0.3vw solid #a60505;
+    height: 4vw;
+}
+
+#div-text-development-design-workstages {
+    z-index: 8;
+    top: 269vw;
+    position: absolute;
+    left: 32vw;
+}
+
+#div-text-improvement-revision {
+    z-index: 8;
+    top: 282vw;
+    position: absolute;
+    left: 32vw;
+}
+
+#div-text-finish-workstages {
+    z-index: 8;
+    top: 297vw;
+    position: absolute;
+    left: 32vw;
+}
+
+#div-text-review-workstages {
+    z-index: 8;
+    top: 311vw;
+    position: absolute;
+    left: 32vw;
+}
+
+#div-text-our-advantages {
+    z-index: 8;
+    top: 150vw;
+    position: absolute;
+    left: 35vw;
+    border-bottom: 0.5vw solid #a60505;
+    height: 7vw;
+}
+
+#text-workstages {
+    font-size: 3vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-description-the-project-workstages {
+    font-size: 2vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-time-cost-workstages {
+    font-size: 2vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-more-workstages {
+    font-size: 2vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-development-design-workstages {
+    font-size: 2vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-improvement-revision {
+    font-size: 2vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-finish-workstages {
+    font-size: 2vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-review-workstages {
+    font-size: 2vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-our-advantages {
+    font-size: 3vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#div-img-workstages {
+    z-index: 8;
+    top: 240vw;
+    position: absolute;
+    left: 8vw;
+}
+
+#img-workstages {
+    width: auto;
+    height: 80vw;
+}
+
+
+/* <!-- value  value  value  value  value  value valuevalue 
+
+--> */
+
+#div-img-all-in-one {
+    z-index: 10;
+    top: 170vw;
+    position: absolute;
+    left: 17vw;
+}
+
+#div-img-time {
+    z-index: 10;
+    top: 170vw;
+    position: absolute;
+    left: 37vw;
+}
+
+#div-img-professionalism {
+    z-index: 10;
+    top: 170vw;
+    position: absolute;
+    left: 57vw;
+}
+
+#div-img-different-languags {
+    z-index: 10;
+    top: 170vw;
+    position: absolute;
+    left: 77vw;
+}
+
+#div-img-availability {
+    z-index: 10;
+    top: 188vw;
+    position: absolute;
+    left: 37vw;
+}
+
+#div-img-development {
+    z-index: 10;
+    top: 188vw;
+    position: absolute;
+    left: 57vw;
+}
+
+#img-all-in-one {
+    width: 7vw;
+    height: auto;
+}
+
+#img-time {
+    width: 7vw;
+    height: auto;
+}
+
+#img-professionalism {
+    width: 7vw;
+    height: auto;
+}
+
+#img-different-languags {
+    width: 7vw;
+    height: auto;
+}
+
+#img-availability {
+    width: 7vw;
+    height: auto;
+}
+
+#img-development {
+    width: 7vw;
+    height: auto;
+}
+
+
+/* <!-- ;888888;;;;;ричысвф
+
+шрпсвшнмпвгнмп
+
+нвмеп   --> */
+
+#div-text-index-all-in-one {
+    z-index: 10;
+    top: 176vw;
+    position: absolute;
+    left: 16.3vw;
+}
+
+#div-text-time {
+    z-index: 10;
+    top: 176vw;
+    position: absolute;
+    left: 36.3vw;
+}
+
+#div-text-professionalism {
+    z-index: 10;
+    top: 176vw;
+    position: absolute;
+    left: 53vw;
+}
+
+#div-text-different-languags {
+    z-index: 10;
+    top: 176vw;
+    position: absolute;
+    left: 73vw;
+}
+
+#div-text-availability {
+    z-index: 10;
+    top: 194vw;
+    position: absolute;
+    left: 33vw;
+}
+
+#div-text-development {
+    z-index: 10;
+    top: 194vw;
+    position: absolute;
+    left: 53vw;
+}
+
+
+/* <!-- 1234 fuwyefguwyf
+
+wefgcyergvctwirv
+vegefi--> */
+
+#text-index-all-in-one {
+    font-size: 2vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-time {
+    font-size: 2vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-professionalism {
+    font-size: 2vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    text-align: center;
+}
+
+#text-different-languags {
+    font-size: 2vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-availability {
+    font-size: 2vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#text-development {
+    font-size: 2vw;
+    color: #2b2b2b;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    text-align: center;
+}
+
+#div_img_index_fb {
+    z-index: 6;
+    top: 333vw;
+    right: 39vw;
+    position: absolute;
+}
+
+#div_img_index_in {
+    z-index: 6;
+    top: 333vw;
+    right: 34vw;
+    position: absolute;
+}
+
+#div_img_index_telegram {
+    z-index: 6;
+    top: 333vw;
+    right: 29vw;
+    position: absolute;
+}
+
+#div_img_index_vk {
+    z-index: 6;
+    top: 333vw;
+    right: 24vw;
+    position: absolute;
+}
+
+#div_img_index_gmail {
+    z-index: 6;
+    top: 337vw;
+    right: 26vw;
+    position: absolute;
+}
+
+#div_img_index_tw {
+    z-index: 6;
+    top: 337vw;
+    right: 31vw;
+    position: absolute;
+}
+
+#div_img_index_inni {
+    z-index: 6;
+    top: 337vw;
+    right: 36vw;
+    position: absolute;
+}
+
+#img_index_fb {
+    width: 3vw;
+    height: auto;
+}
+
+#img_index_in {
+    width: 3vw;
+    height: auto;
+}
+
+#img_index_telegram {
+    width: 3vw;
+    height: auto;
+}
+
+#img_index_vk {
+    width: 3vw;
+    height: auto;
+}
+
+#img_index_gmail {
+    width: 3vw;
+    height: auto;
+}
+
+#img_index_tw {
+    width: 3vw;
+    height: auto;
+}
+
+#img_index_inni {
+    width: 3vw;
+    height: auto;
+}
+
+
+/* iyedfgo82iey7fdo7i24fr
+kchdosuchypowe;
+uchepwifyi9 */
