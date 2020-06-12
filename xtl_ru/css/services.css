@@ -267,7 +267,7 @@ vanila cocola */
     position: absolute;
     z-index: 15;
     border-bottom: 0.5vw solid #a60505;
-    height: 7.5vw;
+    height: 8vw;
 }
 
 
@@ -516,11 +516,3 @@ PAUSE PAUSE */
 fjv hfiuhv
 
 PAUSE PAUSE */
-
-#fon-div-4 {
-    top: 100vw;
-    width: 100vw;
-    height: 30vw;
-    z-index: 0;
-    position: absolute;
-}

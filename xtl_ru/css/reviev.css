@@ -9,13 +9,26 @@
     width: 3vw;
     height: 3vw;
     background-image: url(../img/telegram_send.png);
-    background-color: #2b2b2b;
+    background-color: #a60505;
     background-size: contain;
     border-radius: 50%;
 }
 
 #haup_button_comment:hover {
-    background-color: #a60505;
+    animation-name: send;
+    animation-duration: 2s;
+}
+
+@keyframes send {
+    0% {
+        background-color: #a60505;
+    }
+    50% {
+        background-color: #b61047;
+    }
+    100% {
+        background-color: #a60505;
+    }
 }
 
 #div_text_area_haupt_text {
@@ -29,9 +42,9 @@
     width: 40vw;
     height: 8vw;
     border-top: none;
-    border-left: none;
     border-right: none;
-    border-bottom: 0.3vw solid #2b2b2b;
+    border-left: none;
+    border-bottom: 0.2vw solid #848484;
     font-size: 1.6vw;
     font-weight: 170;
     font-family: 'PT Sans', sans-serif;

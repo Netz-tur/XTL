@@ -145,20 +145,22 @@ body {
     /* left: 40vw; */
     /* border-bottom: 0.4vw solid #a60505; */
     height: 7vw;
-    animation-name: web_text_02;
+    animation-name: web_text;
     animation-duration: 1.5s;
     animation-timing-function: ease-out;
     left: 38vw;
+    width: 20vw;
 }
 
 #div_haupt_long_web_text {
     z-index: 1;
     top: 16.6vw;
     position: absolute;
-    animation-name: web_text;
+    animation-name: web_text_long;
     animation-duration: 1.5s;
     animation-timing-function: ease-out;
     right: 28vw;
+    width: 50vw;
 }
 
 #haupt_web_text {
@@ -192,19 +194,22 @@ body {
 @keyframes web_text {
     0% {
         left: -20vw;
+        width: 20vw;
     }
     100% {
-        left: 25vw;
+        left: 38vw;
+        width: 20vw;
     }
 }
 
-@keyframes web_text_02 {
+@keyframes web_text_long {
     0% {
         right: -20vw;
+        width: 50vw;
     }
     100% {
-        right: 40vw;
-        text-shadow: 0.1vw 0.1vw #bbbbbb;
+        right: 28vw;
+        width: 50vw;
     }
 }
 
@@ -428,4 +433,10 @@ A {
 .haupt_under_line:hover:after,
 .haupt_under_line:focus:after {
     width: 100%;
+}
+
+.haupt_dieser_site_under_line {
+    border-bottom: 0.23vw solid white;
+    height: 5.5vw;
+    line-height: 2.1;
 }

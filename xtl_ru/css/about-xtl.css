@@ -94,7 +94,7 @@
 
 #div_img_guarantee {
     top: 78vw;
-    /* right: -14vw;  */
+    right: -14vw;
     position: absolute;
     z-index: 7;
 }

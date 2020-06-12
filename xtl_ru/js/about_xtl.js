@@ -108,14 +108,15 @@ window.addEventListener('load', function() {
 
             setInterval(function() {
 
-                if (counter_img < 200) {
-                    counter_img = counter_img + 2;
-                    div_img_guarantee.style.right = counter_img + "px";
+                if (counter_img < 14) {
+                    counter_img = counter_img + 0.1;
+                    div_img_guarantee.style.right = counter_img + "vw";
+                    div_img_guarantee.style.timing.function = ease;
 
                 }
 
 
-            }, 30);
+            }, 5);
 
 
         }
